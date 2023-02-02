@@ -1,3 +1,3 @@
 # Intra_badge
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/<Darkblue >/<alahlais>)](https://github.com/oakoudad/badge42)
+[![alahlais's 42 stats](https://badge.mediaplus.ma/darkblue/alahlais)](https://github.com/oakoudad/badge42)
